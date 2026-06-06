@@ -1,5 +1,4 @@
 # NIFTY-Options-IV-Surface-Reconstruction
-# NIFTY Options IV Surface Reconstruction
 
 ## Project Overview
 
